@@ -31,12 +31,13 @@ My development philosophy is rooted in attention to detail, reusability, and use
 
 ### Badges
 
-<b>My GitHub Stats</b>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Pranjal-Jamuar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Pranjal-Jamuar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-Jamuar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="http://www.github.com/Pranjal-Jamuar"><img src="https://github-readme-stats.vercel.app/api?username=Pranjal-Jamuar&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pranjal-Jamuar's GitHub stats" /></a>
-
-<a href="http://www.github.com/Pranjal-Jamuar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranjal-Jamuar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Pranjal-Jamuar/quiz-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjal-Jamuar&repo=quiz-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Pranjal-Jamuar/weatherNow" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pranjal-Jamuar&repo=weatherNow&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
