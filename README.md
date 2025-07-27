@@ -14,8 +14,8 @@ My development philosophy is rooted in attention to detail, reusability, and use
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [pranjal.jamuar@gmail.com](mailto:pranjal.jamuar@gmail.com)
-<!-- * 🧠  I'm learning nodeJS, expressJS, mongoDB
-* 🤝  I'm open to collaborating on JavaScript, React projects -->
+* 🧠  I'm learning nodeJS, expressJS, mongoDB
+* 🤝  I'm open to collaborating on JavaScript, React projects
 
 ### Skills
 
